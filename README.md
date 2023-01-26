@@ -1,2 +1,3 @@
-# datapack_totem
-# Only datapack
+# Datapack Totem Probability
+
+Its a normal datapack to modify totem probability

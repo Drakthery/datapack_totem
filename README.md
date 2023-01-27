@@ -1,3 +1,3 @@
 # Datapack Totem Probability
 
-Its a normal datapack to modify totem probability
+Changes normal mob loot and deleted them
